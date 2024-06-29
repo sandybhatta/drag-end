@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background: #000;
+    border: 4px solid white;
+    padding: 3rem;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-size: 3rem;
+    background: #ffffff;
+    text-align: center;
+    margin: 2rem;
+    cursor: move;
+}
+.dragging{
+    opacity: 0.5;
+    
+}
